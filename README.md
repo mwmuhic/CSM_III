@@ -1,2 +1,2 @@
 # CSM_III
-Repository for a Data Structures Class
+Repository for CSM_III (Data Structures)
